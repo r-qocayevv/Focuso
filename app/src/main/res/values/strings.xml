@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Focuso</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="continue_button">Continue</string>
+    <string name="skip">Skip</string>
+    <string name="continue_with_apple">Continue with Apple</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="lets_dive_into_your_account">Let\'s dive into your account</string>
+    <string name="lets_get_started">Let\'s Get Started!</string>
+    <string name="privacy_policy_terms_of_service">Privacy Policy • Terms of Service</string>
+    <string name="continue_with_x">Continue with X</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+</resources>
