@@ -50,6 +50,7 @@ dependencies {
     implementation(libs.androidx.viewpager2)
     implementation(libs.androidx.navigation.fragment.ktx)
     implementation(libs.androidx.navigation.ui.ktx)
+    implementation(libs.androidx.cardview)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
@@ -58,4 +59,8 @@ dependencies {
     implementation("com.airbnb.android:lottie:6.6.7")
     //Dots indicator
     implementation("com.tbuonomo:dotsindicator:5.1.0")
+    //OTP
+    implementation("io.github.chaosleung:pinview:1.4.4")
+    //Fancy toast
+    implementation("io.github.shashank02051997:FancyToast:2.0.2")
 }

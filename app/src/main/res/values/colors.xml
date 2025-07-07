@@ -8,4 +8,5 @@
     <color name="thinTextColor">#929292</color>
     <color name="always_white">#FFFFFF</color>
     <color name="button_text_color">#F82C34</color>
+    <color name="input_background">#08000000</color>
 </resources>
